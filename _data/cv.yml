@@ -2,28 +2,25 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Carmen Carrasco
+    - name: Location
+      value: Geneva
     - name: Languages
-      value: English, German
+      value: English, French, Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
+      institution: University of Geneva, Switzerland
+      year: 2023
+      description: 
+        - Thesis title: "Perder y hacer mundos: desprendimientos subjetivos y literarios en cuatro novelas hispanoamericanas post-1989"
+        - Score: Très honorable par unanimité
         - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Arts (with Specialization)
+      institution: University of Geneva, Switzerland
+      year: 2017
       description:
         - Description 1.
         - Description 2.
