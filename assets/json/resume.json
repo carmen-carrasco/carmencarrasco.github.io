@@ -24,17 +24,17 @@
   },
  "education": [
     {
-      "institution": "University of Geneva, Switzerland",
+      "institution": "University of Geneva, Geneva, Switzerland",
       "location": "Geneva, Switzerland",
       "url": "https://www.unige.ch/",
       "area": "Hispanic Studies",
       "studyType": "PhD",
       "startDate": "2018-05-08",
       "endDate": "2024-09-22",
-      "score": "Très honorable par unanimité",
+      "score": "Tres honorable par unanimite",
     }
    {
-      "institution": "University of Geneva, Switzerland",
+      "institution": "University of Geneva, Geneva, Switzerland",
       "location": "Geneva, Switzerland",
       "url": "https://www.unige.ch/",
       "area": "Hispanic Studies",
@@ -44,7 +44,7 @@
       "score": "6",
     }
    {
-      "institution": "University of Geneva, Switzerland",
+      "institution": "University of Geneva, Geneva, Switzerland",
       "location": "Geneva, Switzerland",
       "url": "https://www.unige.ch/",
       "area": "Comparative Literature",
