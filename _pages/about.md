@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   dimensions: 
-    width: 300
-    height: 200
+    width: 150
+    height: 100
   more_info: >
     
 
