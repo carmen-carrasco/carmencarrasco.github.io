@@ -8,6 +8,9 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
+  dimensions: 
+    width: 300
+    height: 200
   more_info: >
     
 
