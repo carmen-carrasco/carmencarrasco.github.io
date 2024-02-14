@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: 2
+subtitle: 1
 
 profile:
-  align: left
-  image: prof_pic.jpg
+  align: right
+  image: 
   image_circular: true # crops the image to make it circular
   more_info: >
-   <img src="assets/img/prof_pic.jpg" alt="Profile Picture" width="300" height="200">
+    <img src="prof_pic.jpg" alt="Profile Picture" style="width: 200px; height: 200px; border-radius: 50%; float: right;">
+
     
 
 news: true # includes a list of news items
