@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-   <img src="prof_pic.jpg" alt="Profile Picture" width="300" height="200">
+   <img src="assets/img/prof_pic.jpg" alt="Profile Picture" width="300" height="200">
     
 
 news: true # includes a list of news items
