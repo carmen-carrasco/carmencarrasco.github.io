@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 1
+subtitle: 2
 
 profile:
   align: left
   image: 
   image_circular: true # crops the image to make it circular
   more_info: >
-    <img src="prof_pic.jpg" alt="Profile Picture" style="width: 200px; height: 200px; border-radius: 50%; float: right;">
+    <img src="assets/img/prof_pic.jpg" alt="Profile Picture" style="width: 200px; height: 200px; border-radius: 50%; float: right;">
 
     
 
