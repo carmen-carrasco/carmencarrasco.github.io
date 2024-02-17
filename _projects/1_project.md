@@ -15,68 +15,49 @@ The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Per
 
 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Bibliography
+# Corpus 
+# Peru
+Cateriano, Mariano Ambrosio. “Jetta”. Pliegos al viento. Francisco Mostajo, comp. Arequipa: Tipografía Quirós, 1908, pp. 22-29.
+Egaña, Juan. “Progresos de la civilizacion del género humano”, en Ocios filosóficos y poéticos en la Quinta de las Delicias. Londres: Imp. Manuel Calero, 1829, pp. 71-78. https://www.memoriachilena.gob.cl/602/w3-article-9715.html
+Fuentes Castro, Paulino. “Un amor en sueño”. Anales de la Sección de Literatura del Club Literario de Lima. Vol. I, 1873-1874.
+Gorriti, Juana Manuela. La quena. Sueños y realidades. 2 vol. Buenos Aires: Imprenta de Carlos Casavalle, 1865.
+Herrera, Eduardo. “El fin de la raza”, en: Ilustración Peruana 32, (24 de abril 1910), 185-187.
+López Albújar, Enrique. “Febri-morbo”, en: La mujer Diógenes. Lima: Consejo Nacional de la Universidad Peruana, 1972 [1898].
+Martínez Izquierdo, Simón. Paseos por el orbe ideal. Lima: Imprenta de Torres Aguirre, 1887.
+Palma, Clemente: “La última rubia”. Cuentos malévolos. Paris: Librería Paul Ollendorff, 1912 [1904].
+——. “El día trágico”, en: Una visita al paraíso: crónicas del Halley. Lima: Concytec, 1989 [1910].
+Palma, Ricardo. “Apocalíptica”, en: Tradiciones peruanas. Tomo III. Barcelona: Montanés y Simón editores, 1894 [1883], p. 203. 
+Portillo, Julián M. del. Lima de aquí a cien años. Lima: Imp. del Comercio, 1843. 
+Román, José Antonio. “El beso de Elvira”. La Gran Revista 8 (16 sept. 1897).
+——. “El beso de la estrella”. La Neblina 1 (2 marzo 1896).
+——. “La muerte de Pomaré V”. La Neblina 8 (16 jul. 1896).
+Santos Chocano, José. “Peste. De aguas fuertes”. El Comercio (26 mayo 1893).
+Tapia Landavere, José Manuel. “El fusilamiento de la luna”, en: Cuentos y Fantasías (1895 – 1896). Lima, Perú: Ediciones Atarip, 2014.
+——. “El espiritista”, en: Cuentos y Fantasías (1895 – 1896). Lima, Perú: Ediciones Atarip, 2014.
+Zulen, Pedro. “Al polo norte”: en: Variedades (27 de junio de 1908), p. 558.
+——. “La génesis de una invención”, en: Variedades (15 de agosto 1908), p. 785.
+——. “La desintegración de la materia viviente”, en: Variedades (19 de septiembre 1908), p. 944.
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+# Argentina
+Alcántara, Juan María. “Buenos Aires en el año 4000”, en: Almanaque Sudamericano. Buenos Aires: Librería de El Siglo Ilustrado, 1877.
+Bunge, Carlos Octavio. Thespis. Novelas cortas y cuentos. Buenos Aires: Biblioteca de La Nación, 1907.
+——. Viaje a través de la estirpe y otras narraciones. Buenos Aires: Biblioteca de La Nación, 1908.
+Cané, Miguel. “Las armonias de la luz”. Ensayos. Buenos Aires: Imprenta de la Tribuna, 1877. 
+Dittrich, Julio O. Buenos Aires en el 1950 bajo el régimen socialista. Buenos Aires: s.i.,1908.
+Ezcurra, Eduardo de. En el siglo xxx. Buenos Aires: Imp. de Juan A. Alsina, 1891. 
+Gorriti, Juana Manuela. “Quien escucha, su mal oye”. En Oviedo, José Miguel, Antología crítica del cuento hispanoamericano. Madrid: Alianza Editorial, 1989 [1865].
+Holmberg, Eduardo L. Dos partidos en lucha (fantasía científica). Buenos Aires: Imp. El Arjentino, 1875. 
+——. Horacio Kalibang o los autómatas. Buenos Aires: Imprenta Álbum del Hogar, 1879. 
+——. Viaje maravilloso del Sr. Nic-Nac al planeta Marte (fantasía espiritista). Buenos Aires: Imp. de “El Nacional”, 1875.
+——. “Filigranas de cera”. La Cronica, April 7th-12th 1884. 
+Lugones, Leopoldo. Las fuerzas extrañas. Buenos Aires: Arnoldo Moen, 1906.
+Monsalve, Carlos. “De un mundo a otro”. Juvenilia. Buenos Aires: Imprenta del Diario, 1884 [1881].
+——. “El hombre de piedra”. Juvenilia. Buenos Aires: Imprenta del Diario, 1884 [1881].
+Olivera, Carlos. “El hombre de la levita gris”. En la brecha. 1880-1886. Buenos Aires; París: F. Lajouane; Ch. Bouret, 1887 [1880].
+——. “Los muertos a hora fija”. En la brecha. 1880-1886. Buenos Aires; París: F. Lajouane; Ch. Bouret, 1887 [1881].
+Sarmiento, Domingo Faustino: Argirópolis. O la capital de los estados confederados del Rio de la Plata. Santiago: Imp. de Julio Belin i Ca., 1850. 142. pp.
+Sioen, Aquiles (1879): Buenos Aires en el año 2080. Historia verosímil. Buenos Aires: Igon Hermanos Editores. 
+Valdés, Antonio José (1816a): “Delirio”, en: La Prensa Argentina. Semanario Político y Económico (11 de junio), 1-10.
+——. (1816b): “Delirio”, en: La Prensa Argentina. Semanario Político y Económico (18 de junio), 1-9.
