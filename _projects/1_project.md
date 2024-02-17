@@ -16,9 +16,9 @@ The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Per
 
 
 
-## Bibliography
-# Corpus 
-# Peru
+# Bibliography
+## Corpus 
+## Peru
 Cateriano, Mariano Ambrosio. “Jetta”. Pliegos al viento. Francisco Mostajo, comp. Arequipa: Tipografía Quirós, 1908, pp. 22-29.
 Egaña, Juan. “Progresos de la civilizacion del género humano”, en Ocios filosóficos y poéticos en la Quinta de las Delicias. Londres: Imp. Manuel Calero, 1829, pp. 71-78. https://www.memoriachilena.gob.cl/602/w3-article-9715.html
 Fuentes Castro, Paulino. “Un amor en sueño”. Anales de la Sección de Literatura del Club Literario de Lima. Vol. I, 1873-1874.
@@ -40,7 +40,7 @@ Zulen, Pedro. “Al polo norte”: en: Variedades (27 de junio de 1908), p. 558.
 ——. “La génesis de una invención”, en: Variedades (15 de agosto 1908), p. 785.
 ——. “La desintegración de la materia viviente”, en: Variedades (19 de septiembre 1908), p. 944.
 
-# Argentina
+## Argentina
 Alcántara, Juan María. “Buenos Aires en el año 4000”, en: Almanaque Sudamericano. Buenos Aires: Librería de El Siglo Ilustrado, 1877.
 Bunge, Carlos Octavio. Thespis. Novelas cortas y cuentos. Buenos Aires: Biblioteca de La Nación, 1907.
 ——. Viaje a través de la estirpe y otras narraciones. Buenos Aires: Biblioteca de La Nación, 1908.
