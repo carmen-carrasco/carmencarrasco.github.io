@@ -34,24 +34,24 @@ The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Per
         <li>——. “El beso de la estrella”. <em>La Neblina</em> 1 (2 marzo 1896).</li>
         <li>——. “La muerte de Pomaré V”. <em>La Neblina</em> 8 (16 jul. 1896).</li>
         <li>Santos Chocano, José. “Peste. De aguas fuertes”. <em>El Comercio</em> (26 mayo 1893).</li>
-        <li>Tapia Landavere, José Manuel. “<em>El fusilamiento de la luna</em>”, en: <em>Cuentos y Fantasías</em> (1895 – 1896). Lima, Perú: Ediciones Atarip, 2014.</li>
+        <li>Tapia Landavere, José Manuel. “El fusilamiento de la luna”, in: <em>Cuentos y Fantasías</em> (1895 – 1896). Lima, Perú: Ediciones Atarip, 2014.</li>
         <li>——. “El espiritista”, en: <em>Cuentos y Fantasías (1895 – 1896)</em>. Lima, Perú: Ediciones Atarip, 2014.</li>
-        <li>Zulen, Pedro. “Al polo norte”: en: <em>Variedades</em> (27 de junio de 1908), p. 558.</li>
-        <li>——. “La génesis de una invención”, en: <em>Variedades</em> (15 de agosto 1908), p. 785.</li>
-        <li>——. “La desintegración de la materia viviente”, en: <em>Variedades</em> (19 de septiembre 1908), p. 944.</li>
+        <li>Zulen, Pedro. “Al polo norte”: in: <em>Variedades</em> (27 de junio de 1908), p. 558.</li>
+        <li>——. “La génesis de una invención”, in: <em>Variedades</em> (15 de agosto 1908), p. 785.</li>
+        <li>——. “La desintegración de la materia viviente”, in: <em>Variedades</em> (19 de septiembre 1908), p. 944.</li>
     </ul>
 </div>
 
 <div class="bibliography">
     <h3>Argentina</h3>
     <ul>
-        <li>Alcántara, Juan María. “<em>Buenos Aires en el año 4000</em>”, en: Almanaque Sudamericano. Buenos Aires: Librería de El Siglo Ilustrado, 1877.</li>
+        <li>Alcántara, Juan María. “<em>Buenos Aires en el año 4000</em>”, in: Almanaque Sudamericano. Buenos Aires: Librería de El Siglo Ilustrado, 1877.</li>
         <li>Bunge, Carlos Octavio. <em>Thespis. Novelas cortas y cuentos</em>. Buenos Aires: Biblioteca de La Nación, 1907.</li>
         <li>——. <em>Viaje a través de la estirpe y otras narraciones</em>. Buenos Aires: Biblioteca de La Nación, 1908.</li>
         <li>Cané, Miguel. “Las armonias de la luz”. <em>Ensayos</em>. Buenos Aires: Imprenta de la Tribuna, 1877.</li> 
         <li>Dittrich, Julio O. <em>Buenos Aires en el 1950 bajo el régimen socialista</em>. Buenos Aires: s.i.,1908.</li>
         <li>Ezcurra, Eduardo de. <em>En el siglo xxx</em>. Buenos Aires: Imp. de Juan A. Alsina, 1891.</li> 
-        <li>Gorriti, Juana Manuela. “Quien escucha, su mal oye”. En Oviedo, José Miguel, <em>Antología crítica del cuento hispanoamericano</em>. Madrid: Alianza Editorial, 1989 [1865].</li>
+        <li>Gorriti, Juana Manuela. “Quien escucha, su mal oye”, in Oviedo, José Miguel, <em>Antología crítica del cuento hispanoamericano</em>. Madrid: Alianza Editorial, 1989 [1865].</li>
         <li>Holmberg, Eduardo L. <em>Dos partidos en lucha (fantasía científica)</em>. Buenos Aires: Imp. El Arjentino, 1875.</li> 
         <li>——. <em>Horacio Kalibang o los autómatas</em>. Buenos Aires: Imprenta Álbum del Hogar, 1879.</li> 
          <li>——. <em>Viaje maravilloso del Sr. Nic-Nac al planeta Marte (fantasía espiritista)</em>. Buenos Aires: Imp. de “El Nacional”, 1875.</li>
@@ -61,9 +61,9 @@ The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Per
         <li>——. “<em>El hombre de piedra</em>”. <em>Juvenilia</em>. Buenos Aires: Imprenta del Diario, 1884 [1881].</li>
         <li>Olivera, Carlos. “El hombre de la levita gris”. <em>En la brecha. 1880-1886</em>. Buenos Aires; París: F. Lajouane; Ch. Bouret, 1887 [1880].</li>
         <li>——. “Los muertos a hora fija”. <em>En la brecha. 1880-1886</em>. Buenos Aires; París: F. Lajouane; Ch. Bouret, 1887 [1881].</li>
-        <li>Sarmiento, Domingo Faustino: <em>Argirópolis. O la capital de los estados confederados del Rio de la Plata</em>. Santiago: Imp. de Julio Belin i Ca., 1850. 142. pp.</li>
+        <li>Sarmiento, Domingo Faustino. <em>Argirópolis. O la capital de los estados confederados del Rio de la Plata</em>. Santiago: Imp. de Julio Belin i Ca., 1850. 142. pp.</li>
         <li>Sioen, Aquiles. <em>Buenos Aires en el año 2080. Historia verosímil</em>. Buenos Aires: Igon Hermanos Editores, 1879.</li>
         <li>Valdés, Antonio José. “Delirio”, en: <em>La Prensa Argentina. Semanario Político y Económico</em> (11 de junio), 1-10, 1816a.</li>
-        <li>——. “Delirio”, en: <em>La Prensa Argentina. Semanario Político y Económico</em> (18 de junio), 1-9,1816b. </li>
+        <li>——. “Delirio”, in: <em>La Prensa Argentina. Semanario Político y Económico</em> (18 de junio), 1-9,1816b. </li>
     </ul>
 </div>
