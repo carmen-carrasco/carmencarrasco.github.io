@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 19th Century Speculative Fiction from Peru and Argentina
+title: 19th Century Speculative Fiction Library from Peru and Argentina
 description: 
 img: assets/img/future.png
 importance: 1
@@ -15,7 +15,7 @@ _This page is in progress._
 
 The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Peru-Argentina">https://github.com/carmen-carrasco/OCR-SF-19th-Peru-Argentina</a>
 
-# Abstract
+# Description
 
 In today’s digital age, despite the availability of numerous 19th-century Spanish-American texts in digital libraries, there remains a gap in research projects within the digital humanities that systematically analyze the narrative of this region during this period. Furthermore, few philological studies have delved into the realm of 19th-century speculative fiction in Spanish America. This project aims to address these gaps by making available to researchers a substantial corpus of texts from Peru and Argentina, two countries with distinct technological and literary trajectories yet whose literature is emblematic of the region.
 The initial corpus comprises short stories and novels envisioning a future world, 20 from Argentina and 20 from Peru.
@@ -26,12 +26,6 @@ The first step has already commenced as part of academic coursework for a certif
 
 - The images of the texts
 - The texts encoded in ALTO, with segmentation and transcription fully corrected manually.
-
-
-
-# State of research 
-
-
 
 
 # Corpus
