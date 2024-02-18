@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-This page is in progress.
+_This page is in progress._
 
 The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Peru-Argentina">https://github.com/carmen-carrasco/OCR-SF-19th-Peru-Argentina</a>
 
