@@ -23,5 +23,6 @@ social: true # includes social icons at the bottom of the page
 
 
 Researcher in Digital humanities and Latin American literature
+
 PhD in Hispanic literature 
 
