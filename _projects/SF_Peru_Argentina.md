@@ -14,7 +14,7 @@ The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Per
 
 
 
-# Bibliography
+# Corpus
 
 <div class="bibliography">
     <h3>Peru</h3>
