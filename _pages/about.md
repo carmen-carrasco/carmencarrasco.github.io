@@ -9,7 +9,7 @@ profile:
   image: 
   image_circular: true # crops the image to make it circular
   more_info: >
-    <img src="assets/img/prof_pic.jpg" alt="Profile Picture" style="width: 160px; height: 200px; border-radius: 50%; float: right;">
+    <img src="assets/img/prof_pic.jpg" alt="Profile Picture" style="width: 160px; height: 200px; border-radius: 50%; float: left;">
 
     
 
