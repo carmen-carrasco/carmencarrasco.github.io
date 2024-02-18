@@ -12,6 +12,17 @@ _This page is in progress._
 
 The main page is in: <a href="https://github.com/carmen-carrasco/OCR-SF-19th-Peru-Argentina">https://github.com/carmen-carrasco/OCR-SF-19th-Peru-Argentina</a>
 
+# Abstract
+
+In today’s digital age, despite the availability of numerous 19th-century Spanish-American texts in digital libraries, there remains a gap in research projects within the digital humanities that systematically analyze the narrative of this region during this period. Furthermore, few philological studies have delved into the realm of 19th-century speculative fiction in Spanish America. This project aims to address these gaps by focusing on the study of a substantial corpus of texts from Peru and Argentina, two countries with distinct technological and literary trajectories yet whose literature is emblematic of the region. Notably, 19th-century Spanish-American science fiction possesses unique characteristics shaped by varying levels of scientific advancement in a region untouched by the Industrial Revolution that underpinned capitalist development elsewhere.
+
+The initial corpus comprises short stories and novels envisioning a future world, 20 from Argentina and 20 from Peru. The overall objective of this project is to systematically analyze and explore speculative fiction literature in 19th-century Argentina and Peru, specifically focusing on narratives envisioning the future of the world. The specific aims include developing digital tools for analyzing other 19th-century narrative corpora from these countries and contributing to the broader field of Spanish-American or Spanish 19th-century textual analysis. All resulting models and findings will be open source.
+
+This research unfolds in the following steps: i) development of an OCRisation model, ii) OCRisation and data cleaning, iii) data analysis. The first step has already commenced as part of academic coursework for a certificate in Digital Humanities at the University of Geneva. Utilizing open-source software Kraken/eScriptorium through the HTR infrastructure of the University of Geneva (FoNDUE) that facilitates manual or automatic transcription and segmentation of documents, six texts have been already segmented and fully transcribed. The subsequent phase involves OCRisation of a substantial corpus comprising 40 documents sourced from various digital libraries. Data cleaning is crucial to ensure a consistent corpus enabling analysis of overarching themes, chronological evolution, and thematic distinctions between narratives of the two countries. The final stage entails in-depth textual analysis, encompassing both _stylistic_ and _semantic_ dimensions. This step involves analyzing token sets, topic modeling, diachronic analysis of corpus differences and similarities, geographical mapping of future world settings in the novels, and “sentiment analysis” to explore how the texts conceive the world. The working hypothesis posits that texts within the corpus, peripheral to the Industrial Revolution, offer an alternative vision of the future world divergent from those developed in a capitalist context.
+
+# State of research 
+
+
 
 
 # Corpus
