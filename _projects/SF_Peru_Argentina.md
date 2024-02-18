@@ -5,11 +5,10 @@ description:
 img: assets/img/future.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
+class: text-center
 ---
-<div class="text-center">
-    <h1>{{ page.title }}</h1>
-</div>
+
 
 _This page is in progress._
 
