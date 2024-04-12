@@ -9,7 +9,7 @@ related_publications: false
 class: text-center
 ---
 
-One of the objectives of my project (a library of speculative fiction literature from the 19th century from Peru and Argentina) is to analyze the literary works using the tools of Natural Language Processing (NLP) and computational linguistics.
+One of the objectives of my project ([a library of speculative fiction literature from the 19th century from Peru and Argentina](https://carmen-carrasco.github.io/projects/SF_Peru_Argentina/)) is to analyze the literary works using the tools of Natural Language Processing (NLP) and computational linguistics.
 
 One of the analyses we present here involves geoparsing. This means that we will analyze which places in the future world are mentioned in our 19th-century texts, and then organize them into geographic coordinates and maps.
 
