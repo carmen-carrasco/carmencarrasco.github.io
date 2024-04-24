@@ -2,7 +2,7 @@
 layout: page
 title: 19th Century Speculative Fiction Library from Peru and Argentina
 description: 
-img: assets/img/Cloud_BuenosAires.png
+img: assets/img/future.png
 importance: 1
 category: work
 related_publications: false
