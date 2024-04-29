@@ -2,7 +2,7 @@
 layout: page
 title: Sentiment Analysis using 'syuzhet' package in RStudio 
 description: 
-img: 
+img: %assets/img/Cloud_BuenosAires.png
 importance: 3
 category: work
 related_publications: false
