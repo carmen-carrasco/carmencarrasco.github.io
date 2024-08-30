@@ -2,8 +2,8 @@
 layout: page
 title: Cartography of 19th Century Speculative Fiction from Peru and Argentina 
 description: 
-img: assets/img/Cloud_BuenosAires.png
-importance: 3
+img: assets/img/peripleo.png
+importance: 4
 category: work
 related_publications: false
 class: text-center
